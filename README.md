@@ -10,7 +10,7 @@ Because of the dangerous nature of this tweak, and the possibility of purchasing
 ## Images
 CyBuy Options             |  iPhone X "running" iOS 2  | Purchasing an outdated tweak
 :-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/maxwlang/CyBuy/raw/master/image.png)  |  ![](https://github.com/maxwlang/CyBuy/raw/master/image-1.png) | ![](https://github.com/maxwlang/CyBuy/raw/master/image-2.png)
+![](https://github.com/maxwlang/CyBuy/raw/master/Images/image.png)  |  ![](https://github.com/maxwlang/CyBuy/raw/master/Images/image-1.png) | ![](https://github.com/maxwlang/CyBuy/raw/master/Images/image-2.png)
 
 ## License
 CyBuy is licensed under MIT. All code with existing licenses shall retain their current license.
