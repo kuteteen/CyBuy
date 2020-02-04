@@ -1,0 +1,26 @@
+//
+//  Prefix.pch
+//  Cydia
+//
+//  Created on 8/29/16.
+//
+
+#ifdef __OBJC__
+
+#define CYDIA_LEGACY_COMPATIBILITY
+#import <Compatibility/macOSToiOSBridge.h>
+#import "Device.h"
+#import "Platform.h"
+#import "NSError+Limitless.h"
+#import "LMXTheme.h"
+#endif
+
+#ifndef _assert
+#define _assert(test) do \
+if (!(test)) { \
+fprintf(stderr, "_assert(%d:%s)@%s:%u[%s]\n", errno, #test, __FILE__, __LINE__, __FUNCTION__); \
+assert(test); \
+exit(-1); \
+} \
+while (false)
+#endif

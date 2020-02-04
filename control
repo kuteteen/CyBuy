@@ -1,0 +1,14 @@
+Package: me.virulent.cybuy
+Name: CyBuy
+Depends: mobilesubstrate, firmware(>=9.0)
+Version: 1.0alpha
+Architecture: iphoneos-arm
+Description: Purchase outdated tweaks on updated firmwares.
+  This package allows you to purchase Cydia tweaks on versions of iOS and iOS hardware not marked as supported for your current device.
+   
+  This tweak does not and can not enable piracy, but we still strongly advise against trying to tweak it in ways that might achieve this goal.
+   
+  In using this tweak you understand that you're buying software not approved for your hardware, software, or both. On top of this you agree to not hold the tweak creator, Saurik, the repository, or the creator of tweaks you purchase responsible in the event things don't run on your hardware.
+Maintainer: Maxwell Lang
+Author: Maxwell Lang
+Section: Tweaks
